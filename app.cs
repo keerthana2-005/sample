@@ -10,3 +10,17 @@ input {
   text-align: center;
   padding: 5px 7px;
 }
+nav {
+  margin-bottom: 20px;
+  font-size: 18px;
+}
+
+nav a {
+  text-decoration: none;
+  color: #0077cc;
+  margin: 0 10px;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
