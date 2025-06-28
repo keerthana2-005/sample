@@ -24,3 +24,26 @@ nav a {
 nav a:hover {
   text-decoration: underline;
 }
+/* Style for the navigation bar */
+nav {
+  background-color: #333;
+  padding: 12px;
+  border-radius: 5px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+/* Style for nav links */
+nav a {
+  color: #fff;
+  text-decoration: none;
+  margin: 0 15px;
+  font-weight: bold;
+  font-size: 18px;
+}
+
+/* Hover effect */
+nav a:hover {
+  color: #ffcc00;
+  text-decoration: underline;
+}
